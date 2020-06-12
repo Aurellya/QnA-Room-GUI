@@ -8,3 +8,6 @@ When conducting online workshop, there's always a room where participants can ra
 This program provides q&a room where participant can put their questions in the box provided for participant and host can provide the answer through the provided host text area. 
 Everytime a participant raises a question, there will be a popped panel which display the participant details and his/her question. 
 There's also a clear button to clear the text area.
+
+## Demo
+![GUI](https://user-images.githubusercontent.com/58356073/84533595-0a7e6800-ad1b-11ea-8669-6f3b84064774.gif)
